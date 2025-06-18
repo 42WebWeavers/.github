@@ -1,6 +1,9 @@
 ## Hi there 👋
 42WabWeavers Organization
 This organization was created to help members learn how to use Git and GitHub effectively. We focus on developing network-related projects collaboratively as a team.
+
+🌈 [Discussions](https://github.com/orgs/42WebWeavers/discussions)
+
 <!--
 
 **Here are some ideas to get you started:**
