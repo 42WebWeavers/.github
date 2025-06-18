@@ -1,3 +1,5 @@
+![Logo 42WebWeavers](./WebWeavers.png)
+
 ## Hi there 👋
 42WabWeavers Organization
 This organization was created to help members learn how to use Git and GitHub effectively. We focus on developing network-related projects collaboratively as a team.
