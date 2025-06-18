@@ -1,4 +1,4 @@
-![Logo 42WebWeavers](./WebWeavers.png)
+<!--![Logo 42WebWeavers](./WebWeavers.png)-->
 
 ## Hi there 👋
 42WabWeavers Organization
